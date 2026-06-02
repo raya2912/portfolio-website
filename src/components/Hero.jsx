@@ -52,7 +52,7 @@ const Hero = () => {
             
             <div className="w-full h-full rounded-full overflow-hidden relative z-20 border-2 border-white/10 bg-slate-800 flex items-center justify-center">
                <img src="/profile.png" alt="Raya Das" className="w-full h-full object-cover" />
-               <span className="text-slate-500 absolute text-sm text-center px-4 -z-10">Save your photo as 'profile.jpg' in the public folder</span>
+               <span className="text-slate-500 absolute text-sm text-center px-4 -z-10">Save your photo as 'profile.png' in the public folder</span>
             </div>
             
             <div className="absolute w-[120%] h-[120%] border border-white/5 rounded-full animate-[spin_10s_linear_infinite] z-10 pointer-events-none"></div>
