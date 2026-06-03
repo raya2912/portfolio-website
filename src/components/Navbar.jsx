@@ -55,7 +55,9 @@ const Navbar = () => {
             initial={{ opacity: 0, scale: 0.8 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ delay: navItems.length * 0.1 }}
-            href="#" 
+            href="/resume.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
             className="btn-outline py-2 px-5 text-sm"
           >
             Resume

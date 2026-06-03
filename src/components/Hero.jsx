@@ -28,7 +28,7 @@ const Hero = () => {
             <Link to="projects" smooth={true} duration={500} className="btn-primary cursor-pointer">
               View Projects
             </Link>
-            <a href="#" className="btn-outline">
+            <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="btn-outline">
               Download Resume
             </a>
           </div>
@@ -45,7 +45,7 @@ const Hero = () => {
           initial={{ opacity: 0, scale: 0.9 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.8, delay: 0.2 }}
-          className="relative hidden md:flex items-center justify-center"
+          className="relative flex items-center justify-center order-first md:order-last mb-8 md:mb-0"
         >
           <div className="w-80 h-80 rounded-full glass-card border-white/10 flex items-center justify-center relative overflow-hidden p-2">
             <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-secondary/20 rounded-full animate-pulse"></div>
