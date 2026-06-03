@@ -46,9 +46,9 @@ const Research = () => {
                 Co-authored and presented a research paper proposing a multimodal deep learning architecture combining CNN and BiLSTM networks for emotion recognition. (Currently undergoing publication process)
               </p>
               <div className="pt-4">
-                <a href="#" className="btn-primary inline-block">
-                  Read Paper
-                </a>
+                <button disabled className="btn-primary inline-block opacity-75 cursor-not-allowed">
+                  Coming Soon
+                </button>
               </div>
             </div>
           </div>

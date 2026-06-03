@@ -12,7 +12,7 @@ const projects = [
       "Improved performance by 25% over unimodal baselines",
       "Developed a real-time prediction interface using Streamlit"
     ],
-    github: "#",
+    github: "https://github.com/raya2912/multimodal-emotion-recognition",
     // demo: "#"
   },
   {
@@ -24,7 +24,7 @@ const projects = [
       "Optimized PostgreSQL queries",
       "Implemented testing workflows using Postman and STLC principles"
     ],
-    github: "#",
+    github: "https://github.com/raya2912/Ad-Campaign-Dashboard",
     // demo: "#"
   },
   {
@@ -36,7 +36,7 @@ const projects = [
       "Implemented asynchronous API processing",
       "Improved reliability with structured error handling"
     ],
-    github: "#",
+    github: "https://github.com/raya2912/MCP-server",
     // demo: "#"
   },
   {
@@ -48,7 +48,7 @@ const projects = [
       "Performed model tuning and evaluation",
       "Deployed using Streamlit"
     ],
-    github: "#",
+    github: "https://github.com/raya2912/Bank_loan_Prediction_System",
     // demo: "#"
   }
 ];
