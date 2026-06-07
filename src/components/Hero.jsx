@@ -51,7 +51,7 @@ const Hero = () => {
             <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-secondary/20 rounded-full animate-pulse"></div>
             
             <div className="w-full h-full rounded-full overflow-hidden relative z-20 border-2 border-white/10 bg-slate-800 flex items-center justify-center">
-               <img src="/1000204989.webp" alt="Raya Das" className="w-full h-full object-cover" />
+               <img src="/Raya_corp.jpeg" alt="Raya Das" className="w-full h-full object-cover" />
                <span className="text-slate-500 absolute text-sm text-center px-4 -z-10">Save your photo as 'profile.png' in the public folder</span>
             </div>
             
